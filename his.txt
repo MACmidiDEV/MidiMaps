@@ -1,0 +1,16 @@
+ 378  git status
+  379  git checkout -b merge/Redesign
+  380  git status
+  381  pwd
+  382  ls
+  383  pwd
+  384  git status
+  385  git init
+  386  git status
+  387  git add *
+  388  git commit -m "clone"
+  389  git push
+  390  git push origin master
+  391  git remote add origin https://github.com/MACmidiDEV/MidiMaps.git
+  392  git push
+  393  git push --set-upstream origin master
